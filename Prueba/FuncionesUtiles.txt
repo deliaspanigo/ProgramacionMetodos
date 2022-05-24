@@ -1,0 +1,4 @@
+ 
+ la_tuppla <- "Aver"
+
+ len(la_tuppla)
